@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity & Global Intelligence Roadmap (2026-2029)
 
 ### 👨‍💻 About Me
-I am an 18-year-old Cybersecurity student from India (IICS / NSGC Registered).
+I am an 18-year-old Cybersecurity student from India.
 My goal is to master **Technical Hacking** and **High-Level Linguistics** to track global threats.
 
 ### 🇷🇺 Phase 1: Russian (Текущий этап)
