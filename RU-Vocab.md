@@ -1,4 +1,4 @@
-# # 🇷🇺 Russian Language(Vocab) Foundation:
+# 🇷🇺 Russian Language(Vocab) Foundation:
 
 ### 💻 [TECH] - Technical & Cyber
 | Russian | Phonetic | English | Object (Accusative) |
@@ -21,18 +21,24 @@
 ## 🏠 [DAILY] - General Conversation
 | Russian | Phonetic | English | Object (Accusative) |
 | :--- | :--- | :--- | :--- |
-| **Комната** | [ko-MNA-ta] | Room | Комнату |
-| **Город** | [GO-rod] | City | Город |
-| **Река** | [re-KA] | River | Реку |
-| **Солнце** | [SOLN-tse] | Sun | Солнце |
-| **Луна** | [lu-NA] | Moon | Луну |
-| **Вода** | [va-DA] | Water | Воду |
-| **Дерево** | [DYE-re-va] | Tree | Дерево |
-| **Письмо** | [pees-MO] | Letter / Email | Письмо |
-| **Кофе** | [KO-fe] | Coffee | Кофе |
-| **Чай** | [CHAI] | Tea | Чай |
-| **Окно** | [OK-no] | Window | Окно |
-| **Дверь** | [DVER’] | Door | Дверь |
-| **Лампа** | [LAM-pa] | Lamp | Лампу |
-| **Книга** | [KNI-ga] | Book | Книгу |
-| **Картина** | [kar-TEE-na] | Picture | Картину |
+| **Комната** | [ko-MNA-ta] | Room | **Комнату** |
+| **Город** | [GO-rod] | City | **Город** |
+| **Река** | [re-KA] | River | **Реку** |
+| **Солнце** | [SOLN-tse] | Sun | **Солнце** |
+| **Луна** | [lu-NA] | Moon | **Луну** |
+| **Вода** | [va-DA] | Water | **Воду** |
+| **Дерево** | [DYE-re-va] | Tree | **Дерево** |
+| **Письмо** | [pees-MO] | Letter / Email | **Письмо** |
+| **Кофе** | [KO-fe] | Coffee | **Кофе** |
+| **Чай** | [CHAI] | Tea | **Чай** |
+| **Окно** | [OK-no] | Window | **Окно** |
+| **Дверь** | [DVER’] | Door | **Дверь** |
+| **Лампа** | [LAM-pa] | Lamp | **Лампу** |
+| **Книга** | [KNI-ga] | Book | **Книгу** |
+| **Картина** | [kar-TEE-na] | Picture | **Картину** |
+| **кошка** | [KOSH-ka] | Cat | **кошку** |
+| **звезда** | [zvye-ZDA]| Star | **звезду** |
+| **ветер** | [VYE-ter] | Wind | **ветер** |
+| **утро** | [OO-tra] | Morning | **утро** |
+| **или** | [EE-lee] | Or | **или** |
+| **или нет** | [EE-lee nyet] | Or not | **или нет** |
