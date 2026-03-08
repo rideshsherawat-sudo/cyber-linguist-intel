@@ -38,8 +38,30 @@
 **1️⃣2️⃣. Offering choices (“or”)**
 Чай или вода? | Tea or water?
 
-**1️⃣3️⃣. Asking “or not?”**
+**1️⃣3️⃣. Asking “or not?”** |
 Интернет или нет? | Internet or not?
+
 
 **1️⃣4️⃣. Saying something is not something**
 Это не компьютер. | This is not a computer.
+
+**1️⃣5️⃣. Saying “also / too”**
+Мне тоже нравится интернет. | I also like the internet.
+
+**1️⃣6️⃣. Saying “I see”**
+Я вижу дорогу и город. | I see the road and the city.
+
+**1️⃣7️⃣. Someone sees something**
+Пользователь видит аккаунт. | The user sees the account.
+
+**1️⃣8️⃣. Talking about devices**
+Пользователь видит устройство. | The user sees the device.
+
+**1️⃣9️⃣. Talking about downloads**
+Загрузка не работает. | The download does not work.
+
+**2️⃣0️⃣. Using “sometimes”**
+Интернет иногда не работает. | The internet sometimes does not work.
+
+**2️⃣1️⃣. Using “always”**
+Интернет всегда работает. | The internet always works.
