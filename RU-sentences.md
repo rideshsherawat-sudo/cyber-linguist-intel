@@ -89,3 +89,15 @@ eway works, and the user sees the update.
 
 **2️⃣7️⃣. Expressing "I see multiple things"**   
 Я вижу гору, звезду и облако. | I see a mountain, a star, and a cloud.
+
+**2️⃣8️⃣. Using "sometimes"**   
+Ключ доступа иногда не работает. | The access key sometimes does not work.
+
+**2️⃣9️⃣. Using "always"**   
+Папка всегда на сайте. | The folder is always on the website.
+
+**3️⃣0️⃣. Expressing "something works and someone sees"**   
+Система работает, и пользователь видит папку. | The system works, and the user sees the folder.
+
+**3️⃣1️⃣. Expressing "I see multiple things"**   
+Я вижу остров, траву и песок. | I see an island, grass, and sand.
