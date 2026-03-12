@@ -26,6 +26,11 @@
 | **Папка** | [PAP-ka] | Folder | **Папку** |
 | **Ключ** | [KLYUCH] | Key (security) | **Ключ** |
 | **Ключ доступа** | [KLYUCH dos-TU-pa] | Access key | **Ключ доступа** |
+| **Ветка** | [VYET-ka] | Branch | **Ветку** |
+| **Сбой** | [ZBOY/SBOY] | System failure / Glitch | **Сбой** |
+| **Архив** | [ar-KHIV] | Archive | **Архив** |
+| **Ошибка** | [a-SHIB-ka] | Error | **Ошибку** |
+
 
 ---
 
@@ -65,3 +70,6 @@
 | **Остров** | [OS-trov] | Island | **Остров** |
 | **Трава** | [tra-VA] | Grass | **Траву** |
 | **Песок** | [pye-SOK] | Sand | **Песок** |
+| **Долина** | [da-LEE-na] | Valley | **Долину** |
+| **Туман** | [too-MAN] | Fog | **Туман** |
+| **Пещера** | [pye-SHYE-ra] | Cave | **Пещеру** |
