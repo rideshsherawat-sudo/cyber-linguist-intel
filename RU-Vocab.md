@@ -30,7 +30,10 @@
 | **Сбой** | [ZBOY/SBOY] | System failure / Glitch | **Сбой** |
 | **Архив** | [ar-KHIV] | Archive | **Архив** |
 | **Ошибка** | [a-SHIB-ka] | Error | **Ошибку** |
-
+| **Шифр** | [SHEEFR] | Cipher / Encryption | **Шифр** |
+| **Узел** | [OO-zel] | Node | **Узел** |
+| **Пакет** | [pa-KYET] | Packet | **Пакет** |
+| **Порт** | [PORT] | Port | **Порт** |
 
 ---
 
@@ -73,3 +76,6 @@
 | **Долина** | [da-LEE-na] | Valley | **Долину** |
 | **Туман** | [too-MAN] | Fog | **Туман** |
 | **Пещера** | [pye-SHYE-ra] | Cave | **Пещеру** |
+| **Холм** | [KHOLM] | Hill | **Холм** |
+| **Берег** | [BYE-reg/BYE-ryek] | Shore / Riverbank | **Берег** |
+| **Пыль** | [PYL'] | Dust | **Пыль** |
