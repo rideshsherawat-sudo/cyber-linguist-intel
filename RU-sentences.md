@@ -109,3 +109,7 @@ eway works, and the user sees the update.
 **3️⃣4️⃣. Система работает, и пользователь видит сбой.** | The system works, and the user sees the glitch.
 
 **3️⃣5️⃣. Я вижу долину, туман и пещеру.** | I see a valley, fog, and a cave.
+
+**3️⃣6️⃣. Пакет иногда не работает на порту.** | The packet sometimes does not work on the port.
+
+**3️⃣7️⃣. Я вижу холм и берег.** | I see a hill and a shore.
