@@ -113,3 +113,8 @@ eway works, and the user sees the update.
 **3️⃣6️⃣. Пакет иногда не работает на порту.** | The packet sometimes does not work on the port.
 
 **3️⃣7️⃣. Я вижу холм и берег.** | I see a hill and a shore.
+
+**3️⃣8️⃣. Протокол иногда не работает на канале.** | The protocol sometimes does not work on the channel.
+
+
+**3️⃣9️⃣. Я вижу скалу и ручей.** | I see a cliff and a stream.
