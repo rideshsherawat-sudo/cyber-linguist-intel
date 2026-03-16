@@ -3,18 +3,18 @@
 ### 💻 [TECH] - Technical & Cyber
 | Russian | Phonetic | English | Object (Accusative) |
 | :--- | :--- | :--- | :--- |
-| **Сеть** | [SYET] | Network | Сеть |
-| **Пароль** | [pa-ROL] | Password | Пароль |
-| **Компьютер** | [kom-PYU-ter] | Computer | Компьютер |
-| **Файл** | [FAYL] | File | Файл |
-| **Данные** | [DAN-nyye] | Data | Данные |
-| **Клавиатура** | [kla-vee-a-TU-ra] | Keyboard | Клавиатуру |
-| **Принтер** | [PRIN-ter] | Printer | Принтер |
-| **Браузер** | [BRAU-zer] | Browser | Браузер |
-| **Сайт** | [SAIT] | Website | Сайт |
-| **Телефон** | [te-le-FON] | Phone | Телефон |
-| **Кабель** | [KA-bel’] | Cable | Кабель |
-| **Сервер** | [SER-ver] | Server | Сервер |
+| **Сеть** | [SYET] | Network | **Сеть** |
+| **Пароль** | [pa-ROL] | Password | **Пароль** |
+| **Компьютер** | [kom-PYU-ter] | Computer | **Компьютер** |
+| **Файл** | [FAYL] | File | **Файл** |
+| **Данные** | [DAN-nyye] | Data | **Данные** |
+| **Клавиатура** | [kla-vee-a-TU-ra] | Keyboard | **Клавиатуру** |
+| **Принтер** | [PRIN-ter] | Printer | **Принтер** |
+| **Браузер** | [BRAU-zer] | Browser | **Браузер** |
+| **Сайт** | [SAIT] | Website | **Сайт** |
+| **Телефон** | [te-le-FON] | Phone | **Телефон** |
+| **Кабель** | [KA-bel’] | Cable | **Кабель** |
+| **Сервер** | [SER-ver] | Server | **Сервер** |
 | **Шлюз** | [SHLOOZ] | Gateway | **Шлюз** |
 | **Обновление** | [ob-no-VLE-nie] | Update | **Обновление** |
 |**Пользователь** | [POL-zo-va-tel’] | User | **Пользователя** |
@@ -40,6 +40,9 @@
 | **Процесс** | [pra-TSESS] | Process | **Процесс** |
 | **Шифрование** | [shif-ra-VA-ni-ye] | Encryption | **Шифрование** |
 | **Уязвимость** | [u-yaz-vi-MOST'] | Vulnerability | **Уязвимость** |
+| **Брандмауэр** | [BRAND-ma-u-er] | Firewall | **Брандмауэр** |
+| **Вредонос** | [vre-da-NOS] | Malware | **Вредонос** |
+| **Эксплойт** | [eks-PLOYT] | Exploit | **Эксплойт** |
 
 ---
 
@@ -88,7 +91,12 @@
 | **Скала** | [ska-LA] | Cliff | **Скалу** |
 | **Ручей** | [roo-CHEY] | Stream | **Ручей** |
 | **Песчаник** | [pye-SHCHA-nik] | Sandstone | **Песчаник** |
-| **Время** | [VRYE-mya] | Time |Время** |
+| **Время** | [VRYE-mya] | Time | **Время** |
 | **Человек** | [che-la-VYEK] | Person / Human | **Человека** |
 | **День** | [DYEN'] | Day | **День** |
 | **Вопрос** | [va-PROS] | Question | **Вопрос** |
+| **Еда** | [ye-DA] | Food | **Еду** |
+| **Магазин** | [ma-ga-ZEEN] | Store / Shop | **Магазин** |
+| **Улица** | [OO-li-tsa] | Street | **Улицу** |
+| **Машина** | [ma-SHEE-na] | Car | **Машину** |
+| **Ответ** | [at-VYET] | Answer / Response | **Ответ** |
