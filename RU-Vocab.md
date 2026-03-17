@@ -43,6 +43,9 @@
 | **Брандмауэр** | [BRAND-ma-u-er] | Firewall | **Брандмауэр** |
 | **Вредонос** | [vre-da-NOS] | Malware | **Вредонос** |
 | **Эксплойт** | [eks-PLOYT] | Exploit | **Эксплойт** |
+| **Вход** | [FKHOD] | Login / Sign-in | **Вход** |
+| **Выход** | [VY-khod] | Logout / Exit | **Выход** |
+| **Страница** | [stra-NEE-tsa] | Page | **Страницу** |
 
 ---
 
@@ -68,8 +71,6 @@
 | **звезда** | [zvye-ZDA]| Star | **звезду** |
 | **ветер** | [VYE-ter] | Wind | **ветер** |
 | **утро** | [OO-tra] | Morning | **утро** |
-| **или** | [EE-lee] | Or | **или** |
-| **или нет** | [EE-lee nyet] | Or not | **или нет** |
 | **Ветерок** | [ve-te-ROK] | Breeze | **Ветерок** |
 | **Дорога** | [da-RO-ga] | Road |**Дорогу** |
 | **Ночь** | [noch] | Night | **Ночь** |
@@ -100,3 +101,20 @@
 | **Улица** | [OO-li-tsa] | Street | **Улицу** |
 | **Машина** | [ma-SHEE-na] | Car | **Машину** |
 | **Ответ** | [at-VYET] | Answer / Response | **Ответ** |
+
+---
+
+## Function Words
+| Russian | Phonetic | English |
+| :--- | :--- | :--- |
+| **Не** | [NYE] | Not |
+| **Да** | [DA] | Yes |
+| **Нет** | [NYET] | No |
+| **Или** | [EE-li] | Or |
+| **или нет** | [EE-lee nyet] | Or not | **или нет** |
+| **Тоже** | [TO-zhe] | Also / Too |
+| **Иногда** | [in-og-DA] | Sometimes |
+| **Всегда** | [fseg-DA] | Always |
+| **Сначала** | [sna-CHA-la] | First / At first |
+| **Потом** | [pa-TOM] | Later | 
+| **Уже** | [u-ZHE] | Already |
