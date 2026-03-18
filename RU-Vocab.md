@@ -46,6 +46,8 @@
 | **Вход** | [FKHOD] | Login / Sign-in | **Вход** |
 | **Выход** | [VY-khod] | Logout / Exit | **Выход** |
 | **Страница** | [stra-NEE-tsa] | Page | **Страницу** |
+| **Запрос** | [za-PROS] | Request | **Запрос** |
+| **Соединение** | [sa-ye-di-NYE-ni-ye] | Connection | **Соединение** |
 
 ---
 
@@ -101,6 +103,9 @@
 | **Улица** | [OO-li-tsa] | Street | **Улицу** |
 | **Машина** | [ma-SHEE-na] | Car | **Машину** |
 | **Ответ** | [at-VYET] | Answer / Response | **Ответ** |
+| **Проблема** | [prab-LYE-ma] | Problem | **Проблему** |
+|**Решение** | [re-SHE-ni-ye] | Solution | **Решение** |
+| **Причина** | [pri-CHEE-na] | Reason | **Причину** |
 
 ---
 
