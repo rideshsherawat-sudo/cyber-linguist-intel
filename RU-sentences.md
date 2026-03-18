@@ -133,3 +133,11 @@ eway works, and the user sees the update.
 **4️⃣6️⃣. Сначала вход работает, потом выход не работает.** | First the login works, later the logout does not work.
 
 **4️⃣7️⃣. Пользователь уже видит страницу.** | The user already sees the page.
+
+**4️⃣8️⃣. Соединение иногда не работает.** | The connection sometimes does not work.
+
+**4️⃣9️⃣. Пользователь видит запрос и решение.** | The user sees the request and the solution.
+
+**5️⃣0️⃣. Причина всегда есть.** | There is always a reason.
+
+**5️⃣1️⃣. Я вижу проблему на странице.** | I see a problem on the page.
