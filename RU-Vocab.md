@@ -48,6 +48,9 @@
 | **Страница** | [stra-NEE-tsa] | Page | **Страницу** |
 | **Запрос** | [za-PROS] | Request | **Запрос** |
 | **Соединение** | [sa-ye-di-NYE-ni-ye] | Connection | **Соединение** |
+| **Логин** | [lo-GEEN] | Login | **Логин** |
+| **Учётная запись** | [u-CHYOT-na-ya ZA-pis'] | Account (formal) | **Учётную запись** |
+| **Аутентификация** | [a-u-ten-ti-fi-KA-tsi-ya] | Authentication | **Аутентификацию** |
 
 ---
 
@@ -122,3 +125,12 @@
 | **Сначала** | [sna-CHA-la] | First / At first |
 | **Потом** | [pa-TOM] | Later | 
 | **Уже** | [u-ZHE] | Already |
+
+---
+
+## Verbs 
+| Russian | Phonetic | English |
+| :--- | :--- | :--- |
+| **Сказать** | [ska-ZAT'] | To say |
+| **Думать** | [DOO-mat'] | To think |
+| **Ждать** | [ZHDAT'] | To wait |
