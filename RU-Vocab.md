@@ -51,6 +51,7 @@
 | **Логин** | [lo-GEEN] | Login | **Логин** |
 | **Учётная запись** | [u-CHYOT-na-ya ZA-pis'] | Account (formal) | **Учётную запись** |
 | **Аутентификация** | [a-u-ten-ti-fi-KA-tsi-ya] | Authentication | **Аутентификацию** |
+| **Разрешение** | [ra-zre-SHE-ni-ye] | Permission | **Разрешение** |
 
 ---
 
