@@ -149,3 +149,11 @@ eway works, and the user sees the update.
 **5️⃣4️⃣. Я думаю, что соединение не работает.** | I think the connection is not working.
 
 **5️⃣5️⃣. Сначала логин, потом учётная запись работает.** | First the login, then the account works.
+
+**5️⃣6️⃣. Задержка иногда есть в соединении.** | There is sometimes a delay in the connection.
+
+**5️⃣7️⃣. Пользователь помнит отказ системы.** | The user remembers the system failure.
+
+**5️⃣8️⃣. Сначала нужно решить проблему, потом начать обработку.** | First you need to solve the problem, then start processing.
+
+**5️⃣9️⃣. Я вижу задержку и отказ в системе.** | I see a delay and a failure in the system.
