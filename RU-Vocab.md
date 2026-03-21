@@ -55,6 +55,9 @@
 | **Задержка | [za-DYERZH-ka] | Delay / Latency | **Задержку** |
 | **Отказ** | [at-KAZ] | Failure / Refusal | **Отказ** |
 | **Обработка** |[ab-ra-BOT-ka] | Processing | **Обработку** |
+| **Доступность** | [da-stup-NOST'] | Availability | **Доступность** |
+| **Сбой системы** | [ZBOY/SBOY sis-TYE-my] | System failure | **Сбой системы** |
+| **Обновление** | [ab-nav-LYE-ni-ye] | Update | **Обновление** |
 
 ---
 
@@ -114,6 +117,7 @@
 |**Решение** | [re-SHE-ni-ye] | Solution | **Решение** |
 | **Причина** | [pri-CHEE-na] | Reason | **Причину** |
 
+
 ---
 
 ## Function Words
@@ -129,6 +133,7 @@
 | **Сначала** | [sna-CHA-la] | First / At first |
 | **Потом** | [pa-TOM] | Later | 
 | **Уже** | [u-ZHE] | Already |
+| **Если** | [YES-li] | If |
 
 ---
 
@@ -141,3 +146,6 @@
 | **Решить** | [re-SHEET'] | To decide / To solve |
 | **Помнить** |[POM-nit'] | To remember | 
 | **Начать** | [na-CHAT'] |To start / To begin
+| **Искать** | [is-KAT'] | To search / To look for | 
+| **Найти** | [nay-TI] | To find | 
+| **Проверить** | [pra-VYE-rit'] | To check / To verify
