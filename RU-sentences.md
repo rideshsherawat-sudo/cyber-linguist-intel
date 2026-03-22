@@ -165,3 +165,11 @@ eway works, and the user sees the update.
 **6️⃣2️⃣. Сначала нужно найти сбой системы, потом решить проблему.** | First you need to find the system failure, then solve the problem.
 
 **6️⃣3️⃣. Если есть задержка, нужно проверить доступность.** | If there is a delay, you need to check availability.
+
+**6️⃣4️⃣. Важно проверить журнал системы.** | It is important to check the system log.
+
+**6️⃣5️⃣. Трафик иногда работает медленно.** | The network traffic sometimes works slowly.
+
+**6️⃣6️⃣. Если есть сбой, нужно быстро найти резервную копию.** | If there is a failure, you need to quickly find the backup.
+
+**6️⃣7️⃣. Журнал всегда важно проверить.** | It is always important to check the log.
