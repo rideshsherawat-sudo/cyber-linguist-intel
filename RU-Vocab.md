@@ -69,6 +69,11 @@
 | **Код** | [KOD] | Code | **Код** |
 | **Анализ** | [a-NA-leez] | Analysis | **Анализ** |
 | **Удаление** | [u-da-LYE-nee-ye] | Deletion | **Удаление** |
+| **Цель** | [TSEL'] | Target / Goal | **Цель** |
+| **Команда** | [ka-MAN-da] | Command / Team | **Команду** |
+| **Скрипт** | [SKREEMPT] | Script | **Скрипт** |
+
+
 
 
 ---
@@ -135,6 +140,9 @@
 | **Ключ** | [KLYUCH] | Key | **Ключ** |
 | **Сумка** | [SOOM-ka] | Bag | **Сумку** |
 | **Деньги** | [DYEN'-gee] | Money | **Деньги** |
+| **Место** | [MYE-sta] | Place / Location | **Место** |
+| **Группа** | [GROOP-pa] | Group | **Группу** |
+| **Адрес** | [A-dryes] | Address | **Адрес** |
 
 ---
 
