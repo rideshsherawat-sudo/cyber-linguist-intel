@@ -74,7 +74,9 @@
 | **Скрипт** | [SKREEMPT] | Script | **Скрипт** |
 | **Безопасность** | [be-za-PAS-nost'] | Security | **Безопасность** |
 | **Проверка доступа** | [pra-VYER-ka das-TU-pa] | Access verification | **Проверку доступа** |
-
+| **ошибка входа** | [a-SHIB-ka VKHOD-a] | login error | **ошибка входа** |
+| **перезагрузка** | [pe-re-ZA-GROOS-ka] | reboot / restart | **перезагрузку** |
+| **состояние системы** | [sa-sta-YA-ni-ye sis-TYE-my] | system status | **состояние системы** |
 
 
 ---
@@ -183,3 +185,6 @@
 | **Смотреть** |[sma-TRYET'] |To watch / To look at |
 | **Отправлять** |[at-prav-LYAT'] | To send |
 | **Соединять** | [sa-ye-di-NYAT'] | To connect / To link |
+| **открывать** | [at-kry-VAHT’] | to open |
+| **отвечать** | [at-vi-CHAT’] | to answer / reply |
+| **закрывать** | [za-kry-VAHT’] | to close |
