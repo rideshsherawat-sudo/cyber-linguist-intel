@@ -188,10 +188,18 @@ eway works, and the user sees the update.
 
 **7️⃣4️⃣. Важно помнить свою цель и работу.** | It is important to remember your target and work.
 
-**6️⃣4️⃣. Если есть сбой, нужно проверить безопасность системы.** | If there is a failure, you need to check system security.
+**7️⃣5️⃣. Если есть сбой, нужно проверить безопасность системы.** | If there is a failure, you need to check system security.
 
-**6️⃣5️⃣. Пользователь отправляет сообщение через аккаунт.** | The user sends a message through the account.
+**7️⃣6️⃣. Пользователь отправляет сообщение через аккаунт.** | The user sends a message through the account.
 
-**6️⃣6️⃣. Сначала проверка доступа, потом система соединяет.** | First access verification, then the system connects.
+**7️⃣7️⃣. Сначала проверка доступа, потом система соединяет.** | First access verification, then the system connects.
 
-**6️⃣7️⃣. Я смотрю на сообщение и вижу ошибку.** | I look at the message and see an error.
+**7️⃣8️⃣. Я смотрю на сообщение и вижу ошибку.** | I look at the message and see an error.
+
+**7️⃣9️⃣. Пользователь открывает файл и смотрит данные.** | The user opens the file and looks at the data.
+
+**8️⃣0️⃣. Сервер соединяет сеть и узел.** | The server connects the network and the node.
+
+**8️⃣1️⃣. Я проверяю пароль и вход.** | I check the password and login.
+
+**8️⃣2️⃣. Браузер открывает сайт.** | The browser opens the website.
